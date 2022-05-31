@@ -9,7 +9,8 @@ public class TestNgPractice1Test  {
 
 	public void practice1Test() {
 		
-
+	String browser=System.getProperty("BROWSER");
+		Reporter.log(browser, true);
 		Reporter.log("hiii", true);
 
 
