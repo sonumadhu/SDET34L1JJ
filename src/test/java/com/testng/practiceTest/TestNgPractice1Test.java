@@ -9,8 +9,9 @@ public class TestNgPractice1Test  {
 
 	public void practice1Test() {
 		
-		
-		Reporter.log("hiii",true);
+
+		Reporter.log("hiii", true);
+
 
 	}
 	
