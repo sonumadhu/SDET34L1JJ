@@ -7,10 +7,10 @@ public class TestNgPractice1Test  {
 
 	@Test(dataProvider = "logindata")
 
-	public void practice1Test(String username, String password) {
+	public void practice1Test() {
 		
 		
-		Reporter.log(username+"--->"+password,true);
+		Reporter.log("hiiii",true);
 
 	}
 	
